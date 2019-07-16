@@ -8,6 +8,7 @@ flutter学习小组的公共仓库，分享学习资料，开发flutter项目
 - dart语言导览        http://dart.lidian.info/wiki/Language_Tour#.E6.B3.9B.E5.9E.8B
 - flutter中文网       https://flutterchina.club
 - flutter go 开源项目 https://github.com/alibaba/flutter-go
+- Flutter inspector  https://flutter.dev/docs/development/tools/devtools/inspector
 
 # 代码规范
 约定的代码规范，在“代码规范.md”中添加。
