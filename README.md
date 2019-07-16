@@ -9,7 +9,12 @@ flutter学习小组的公共仓库，分享学习资料，开发flutter项目
 - flutter中文网       https://flutterchina.club
 - flutter go 开源项目 https://github.com/alibaba/flutter-go
 
+# 代码规范
+约定的代码规范，在“代码规范.md”中添加。
+
 # 学习计划
 ## 1、快速学习Dart基础语法
+
 ## 2、了解flutter工程，建立demo
+
 ## 3、学习分工
